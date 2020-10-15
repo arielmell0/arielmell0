@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="35%" align="right" alt="Github GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fjim-carrey-typing-hyperactive-productive-gif-13741595&psig=AOvVaw0XCQLY_Y8UPJ4MVZkVmiQk&ust=1602852119113000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICGgcnPtuwCFQAAAAAdAAAAABA9" />
+<img width="35%" align="right" alt="Github GIF" src="https://media1.tenor.com/images/b37aa7ad8e0cf6db913dcc4974ceea45/tenor.gif" />
 
 I'm a System Analysis and Development student who is passionate about writing code, solving problems, automating stuff, and building software.
 
