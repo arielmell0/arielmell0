@@ -9,4 +9,3 @@ I'm a System Analysis and Development student who is passionate about writing co
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ariel-oliveira-de-mello-4b27021b0/) [Gmail](arielmello@rede.ulbra.br)
 
-⭐️ From [arielmell0](https://github.com/arielmell0)
