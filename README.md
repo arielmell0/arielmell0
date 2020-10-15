@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="15%" align="right" alt="Github GIF" src="https://media1.tenor.com/images/b37aa7ad8e0cf6db913dcc4974ceea45/tenor.gif" />
+<img width="50%" align="right" alt="Github GIF" src="https://media1.tenor.com/images/b37aa7ad8e0cf6db913dcc4974ceea45/tenor.gif" />
 
 I'm a System Analysis and Development student who is passionate about writing code, solving problems, automating stuff, and building software.
 
