@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Ariel e eu sou um desenvolvedor back-end. Você pode acompanhar o meu portfólio em <br>arielom.tech</h2>
+<h2 align="left">Oi 👋! Meu nome é Ariel e eu sou um desenvolvedor back-end do <br>Rio Grande do Sul</h2>
 
 ###
 
