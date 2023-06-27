@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Ariel, Desenvolvedor Full-Stack na <a href="https://infleux.co" target="_blank">Infleux</a></h2>
+<h2 align="left">Oi 👋! Meu nome é Ariel, Atualmente sou um desenvolvedor Full-Stack na <a href="https://infleux.co" target="_blank">Infleux</a></h2>
 
 ###
 
